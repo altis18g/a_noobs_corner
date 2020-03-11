@@ -1,0 +1,11 @@
+print ("Enter Your Name:")
+name = input()
+
+print ("Enter Your Age:")
+age = int(input())
+
+if (age>=18):
+   print (name, "are elligible to vote"),
+else
+   print (name, "are not elligible to vote"))
+   
